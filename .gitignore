@@ -1,0 +1,8 @@
+*.DS_Store
+.idea
+search-engine.iml
+websites.txt
+out/
+sources.txt
+dictionary.txt
+target/
